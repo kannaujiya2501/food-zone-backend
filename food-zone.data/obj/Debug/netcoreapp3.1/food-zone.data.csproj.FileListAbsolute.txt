@@ -1,0 +1,13 @@
+D:\Food\Food_Zone\food-zone.data\bin\Debug\netcoreapp3.1\food-zone.data.deps.json
+D:\Food\Food_Zone\food-zone.data\bin\Debug\netcoreapp3.1\food-zone.data.runtimeconfig.json
+D:\Food\Food_Zone\food-zone.data\bin\Debug\netcoreapp3.1\food-zone.data.runtimeconfig.dev.json
+D:\Food\Food_Zone\food-zone.data\bin\Debug\netcoreapp3.1\food-zone.data.dll
+D:\Food\Food_Zone\food-zone.data\bin\Debug\netcoreapp3.1\food-zone.data.pdb
+D:\Food\Food_Zone\food-zone.data\obj\Debug\netcoreapp3.1\food-zone.data.csproj.AssemblyReference.cache
+D:\Food\Food_Zone\food-zone.data\obj\Debug\netcoreapp3.1\food-zone.data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Food\Food_Zone\food-zone.data\obj\Debug\netcoreapp3.1\food-zone.data.AssemblyInfoInputs.cache
+D:\Food\Food_Zone\food-zone.data\obj\Debug\netcoreapp3.1\food-zone.data.AssemblyInfo.cs
+D:\Food\Food_Zone\food-zone.data\obj\Debug\netcoreapp3.1\food-zone.data.csproj.CoreCompileInputs.cache
+D:\Food\Food_Zone\food-zone.data\obj\Debug\netcoreapp3.1\food-zone.data.dll
+D:\Food\Food_Zone\food-zone.data\obj\Debug\netcoreapp3.1\food-zone.data.pdb
+D:\Food\Food_Zone\food-zone.data\obj\Debug\netcoreapp3.1\food-zone.data.genruntimeconfig.cache
